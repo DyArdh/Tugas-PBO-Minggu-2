@@ -19,7 +19,7 @@ public class Main {
         convertion.toReamur();
 
         System.out.println("\n===========================================================================================");
-        Balok blk = new Balok();
+        BangunRuang blk = new BangunRuang();
         System.out.print("\nMasukkan Panjang (cm) : ");
         blk.panjang = input.nextInt();
         System.out.print("Masukkan Lebar   (cm) : ");
