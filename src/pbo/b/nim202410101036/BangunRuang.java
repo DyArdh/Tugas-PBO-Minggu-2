@@ -1,6 +1,6 @@
 package pbo.b.nim202410101036;
 
-public class Balok {
+public class BangunRuang {
     public int panjang, lebar, tinggi, luas_permukaan, volume;
 
     public void luasPermukaan(){
